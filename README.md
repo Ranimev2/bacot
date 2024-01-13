@@ -1,6 +1,6 @@
-# web-komik
+# web-komik ( komiku )
 Project Web Komik with My Api Scraping using Flask & Php.
 ## source api
 ```
-https://github.com/Latip176/mangayaro-api
+https://wibu.vercel.app
 ```
